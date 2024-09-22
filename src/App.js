@@ -3,7 +3,7 @@ import CurrentLocation from "./currentLocation";
 import "./App.css";
 
 
-const API_KEY = "e7ce67cd7ef71c5d51657af1fe1f2044";
+const API_KEY = "";
 
 function App() {
   const [weatherCondition, setWeatherCondition] = useState("");
